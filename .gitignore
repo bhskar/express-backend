@@ -1,5 +1,5 @@
 .vscode
-
+/node_modules/
 /working-file.cpp
 /working-file2.cpp
 /index2.js
